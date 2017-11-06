@@ -1,7 +1,9 @@
 # Python_Genomic_Data_Science_FP
 Final Project Python Genomic Data Science Certification
-Write a Python program that takes as input a file containing DNA sequences in multi-FASTA format, 
-and computes the answers to the following questions:
+Write a Python program that takes as input a file containing DNA sequences in multi-FASTA format.
+While developing your program(s), please use the following example file to test your work: dna.example.fasta
+
+Your program should compute the answers to the following questions:
 
 (1) How many records are in the file? A record in a FASTA file is defined as a single-line header, followed by lines of sequence data. 
 The header line is distinguished from the sequence data by a greater-than (">") symbol in the first column. 
